@@ -2,7 +2,7 @@
 
 Similar to the official [limit_login_to_ip](https://github.com/nextcloud/limit_login_to_ip) nextcloud app  but applies ip limit only to specific groups. 
 
-<div style="text-align: center; font-size: 24px; font-weight: bold;"> No support, no proper ui ⚠️ </div>
+## ⚠️ No support, no proper ui ⚠️
 
 # Installation
 
