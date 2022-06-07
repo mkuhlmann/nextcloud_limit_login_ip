@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>limit_login_ip</id>
+    <name>Limit Login By Ip for specific groups</name>
+    <summary>Similar to the official [limit_login_to_ip](https://github.com/nextcloud/limit_login_to_ip) nextcloud app  but applies ip limit only to specific groups. </summary>
+    <description><![CDATA[limit]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="manuel@mkuhlmann.org" >Manuel Kuhlmann</author>
+    <namespace>LimitLoginIp</namespace>
+    <category>security</category>
+    <bugs>https://github.com/mkuhlmann/limit_login_ip</bugs>
+    <dependencies>
+        <nextcloud min-version="15" max-version="24"/>
+    </dependencies>
+</info>
